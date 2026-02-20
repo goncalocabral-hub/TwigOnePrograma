@@ -154,8 +154,4 @@ It is highly relevant for roles in:
 - REST API for monitoring
 - Protocol fuzz testing
 
-👨‍💻 Author
 
-Gonçalo Cabral
-CTeSP in Informatics & Organizational Communication
-Focused on Cybersecurity, Networking & Secure Systems Development
